@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import Header from '../components/header';
 import '../css/projects.css';
 import data from '../data';
@@ -20,12 +19,12 @@ const Projects = () => {
                   {name}
                 </p>
                 <img className="projects-img" src={ img } alt="imagem" />
-                <Link to={ { pathname: linkSite } } target="_blank">
+                <a href={ linkSite  } target="_blank">
                   <p className="projects-links">Acesse o site</p>
-                </Link>
-                <Link to={ { pathname: linkRepositorio } } target="_blank">
+                </a>
+                <a  href={ linkRepositorio  } target="_blank">
                   <p className="projects-links">Acesse o repositório</p>
-                </Link>
+                </a>
 
               </section>
             ))
