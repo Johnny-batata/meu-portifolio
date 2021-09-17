@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.network-photos {
+    width: 65px;
+    height: 55px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.div-footer-imgs {
+    display: flex;
+}
