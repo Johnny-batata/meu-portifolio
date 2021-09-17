@@ -8,9 +8,11 @@ const Footer = () => {
     <footer className="footer">
       <h3>Informações para contato: </h3>
       <div className="div-footer-imgs">
-        <a href={ 'https://github.com/Johnny-batata'  } target="_blank">
+                 {/*eslint-disable-next-line*/}
+        <a href={ 'https://github.com/Johnny-batata' } target="_blank">
           <img src={ github } alt="foto" className="network-photos" />
         </a>
+                 {/*eslint-disable-next-line*/}
         <a href= 'https://www.linkedin.com/in/johnny-arguello-95b451217/' target="_blank">
           <img src={ linkedin } alt="foto" className="network-photos" />
         </a>

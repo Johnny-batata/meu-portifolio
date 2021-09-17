@@ -19,9 +19,11 @@ const Projects = () => {
                   {name}
                 </p>
                 <img className="projects-img" src={ img } alt="imagem" />
+                 {/*eslint-disable-next-line*/}
                 <a href={ linkSite  } target="_blank">
                   <p className="projects-links">Acesse o site</p>
                 </a>
+                 {/*eslint-disable-next-line*/}
                 <a  href={ linkRepositorio  } target="_blank">
                   <p className="projects-links">Acesse o repositório</p>
                 </a>
