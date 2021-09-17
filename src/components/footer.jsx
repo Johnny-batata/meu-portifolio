@@ -13,7 +13,7 @@ const Footer = () => {
         <Link to={ { pathname: 'https://github.com/Johnny-batata' } } target="_blank">
           <img src={ github } alt="foto" className="network-photos" />
         </Link>
-        <Link to={ { pathname: 'https://www.linkedin.com/in/johnny-arguello-95b451217/' } } target="_blank">
+        <Link to= 'https://www.linkedin.com/in/johnny-arguello-95b451217/' target="_blank">
           <img src={ linkedin } alt="foto" className="network-photos" />
         </Link>
       </div>
