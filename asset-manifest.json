@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c8f9157.chunk.css",
-    "main.js": "/static/js/main.3fe7e883.chunk.js",
-    "main.js.map": "/static/js/main.3fe7e883.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87831706.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
-    "static/js/2.92b5e55d.chunk.js": "/static/js/2.92b5e55d.chunk.js",
-    "static/js/2.92b5e55d.chunk.js.map": "/static/js/2.92b5e55d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f67c139fe5b97a2327baf6f7f390edcf.js": "/precache-manifest.f67c139fe5b97a2327baf6f7f390edcf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7c8f9157.chunk.css.map": "/static/css/main.7c8f9157.chunk.css.map",
-    "static/js/2.92b5e55d.chunk.js.LICENSE.txt": "/static/js/2.92b5e55d.chunk.js.LICENSE.txt",
-    "static/media/photo.jpeg": "/static/media/photo.2db5b290.jpeg",
-    "static/media/recipes.png": "/static/media/recipes.570c6b64.png"
+    "main.css": "/meu-portifolio/static/css/main.7c8f9157.chunk.css",
+    "main.js": "/meu-portifolio/static/js/main.bc35df44.chunk.js",
+    "main.js.map": "/meu-portifolio/static/js/main.bc35df44.chunk.js.map",
+    "runtime-main.js": "/meu-portifolio/static/js/runtime-main.401daeb8.js",
+    "runtime-main.js.map": "/meu-portifolio/static/js/runtime-main.401daeb8.js.map",
+    "static/js/2.92b5e55d.chunk.js": "/meu-portifolio/static/js/2.92b5e55d.chunk.js",
+    "static/js/2.92b5e55d.chunk.js.map": "/meu-portifolio/static/js/2.92b5e55d.chunk.js.map",
+    "index.html": "/meu-portifolio/index.html",
+    "precache-manifest.31759414ddf2c5608b08662006b6bef6.js": "/meu-portifolio/precache-manifest.31759414ddf2c5608b08662006b6bef6.js",
+    "service-worker.js": "/meu-portifolio/service-worker.js",
+    "static/css/main.7c8f9157.chunk.css.map": "/meu-portifolio/static/css/main.7c8f9157.chunk.css.map",
+    "static/js/2.92b5e55d.chunk.js.LICENSE.txt": "/meu-portifolio/static/js/2.92b5e55d.chunk.js.LICENSE.txt",
+    "static/media/photo.jpeg": "/meu-portifolio/static/media/photo.2db5b290.jpeg",
+    "static/media/recipes.png": "/meu-portifolio/static/media/recipes.570c6b64.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.87831706.js",
+    "static/js/runtime-main.401daeb8.js",
     "static/js/2.92b5e55d.chunk.js",
     "static/css/main.7c8f9157.chunk.css",
-    "static/js/main.3fe7e883.chunk.js"
+    "static/js/main.bc35df44.chunk.js"
   ]
 }
