@@ -1,8 +1,14 @@
 import recipes from './imgs/recipes.png';
 
 const data = [
+    {
+    name: 'Car store',
+    img: 'https://st2.depositphotos.com/5486388/8033/v/950/depositphotos_80334926-stock-illustration-car-logo-template.jpg',
+    linkSite: 'https://johnny-carstore-fe.herokuapp.com/',
+    linkRepositorio: 'https://github.com/Johnny-batata/CarStore',
+  },
   {
-    name: 'form de satisfação',
+    name: 'Form de satisfação',
     img: 'https://cdn-icons-png.flaticon.com/512/2875/2875409.png',
     linkSite: 'https://johnny-satisfaction-survey.herokuapp.com/',
     linkRepositorio: 'https://github.com/Johnny-batata/survey-typeform',
