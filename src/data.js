@@ -2,6 +2,12 @@ import recipes from './imgs/recipes.png';
 
 const data = [
   {
+    name: 'form de satisfação',
+    img: 'https://cdn-icons-png.flaticon.com/512/2875/2875409.png',
+    linkSite: 'https://johnny-satisfaction-survey.herokuapp.com/',
+    linkRepositorio: 'https://github.com/Johnny-batata/survey-typeform',
+  },
+  {
     name: 'To do list',
     img: 'https://www.marketing91.com/wp-content/uploads/2020/03/To-do-List-scaled.jpg',
     linkSite: 'https://johnny-batata.github.io/Ebytr-frontend/',
